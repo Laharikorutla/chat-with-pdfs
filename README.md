@@ -1,2 +1,3 @@
-# chat-with-pdfs
-Chatting with PDFs is essentially a process where you can interact with a PDF document as if it were a conversation. This allows you to extract and manipulate information from the document in a more dynamic and user-friendly way. 
+Chatting with PDFs Using Python
+This project enables you to interact with and query PDF documents programmatically using Python. It leverages powerful Python libraries to extract, process, and analyze content from PDF files, enabling functionalities like text extraction, table extraction, search, and even interactive question answering.
+To get started, clone this repository and install
